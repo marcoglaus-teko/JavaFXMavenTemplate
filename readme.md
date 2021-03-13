@@ -1,2 +1,2 @@
-#JavaFX Maven Template
+# JavaFX Maven Template
 
